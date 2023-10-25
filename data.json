@@ -1,0 +1,217 @@
+[
+    {
+      "title": "HTML",
+      "description": "This is a beginer html course.",
+      "topics": [
+        {
+          "title": "Introducton",
+          "chapters": [
+            {
+              "title": "What is HTML?",
+              "content": "\n - HTML stands for Hyper Text Markup Language \n - HTML is the standard markup language for creating Web pages \n - HTML describes the structure of a Web page \n - HTML consists of a series of elements \n - HTML elements tell the browser how to display the content \n"
+            },
+            {
+              "title": "A Simple HTML Document",
+              "content": "<!DOCTYPE html> \n <html> \n <head> \n <title>Page Title</title> \n </head> \n <body> \n <h1>My First Heading</h1> \n <p>My first paragraph.</p> \n </body> \n </html>"
+            },
+            {
+              "title": "Example Explained",
+              "content": "\n -The <!DOCTYPE html> declaration defines that this document is an HTML5 document \n - The <html> element is the root element of an HTML page \n - The <head> element contains meta information about the HTML page \n - The <title> element specifies a title for the HTML page (which is shown in the browser's title bar or in the page's tab) \n - The <body> element defines the document's body, and is a container for all the visible contents, such as headings, paragraphs, images, hyperlinks, tables, lists, etc. \n - The <h1> element defines a large heading \n - The <p> element defines a paragraph \n"
+            }
+          ]
+        },
+        {
+          "title": "HTML Basic Examples",
+          "chapters": [
+            {
+              "title": "HTML Documents",
+              "content": "\n All HTML documents must start with a document type declaration: <!DOCTYPE html>. \n The HTML document itself begins with <html> and ends with </html>. \n The visible part of the HTML document is between <body> and </body>. \n\n"
+            },
+            {
+              "title": "The <!DOCTYPE> Declaration",
+              "content": "\n - The <!DOCTYPE> declaration represents the document type, and helps browsers to display web pages correctly. \n - It must only appear once, at the top of the page (before any HTML tags). \n - The <!DOCTYPE> declaration is not case sensitive. \n - The <!DOCTYPE> declaration for HTML5 is: \n <!DOCTYPE html> \n"
+            },
+            {
+              "title": "HTML Headings",
+              "content": "\n - HTML headings are defined with the <h1> to <h6> tags. \n <h1> defines the most important heading. \n <h6> defines the least important heading: \n Example \n <h1>This is heading 1</h1> \n <h2>This is heading 2</h2> \n <h3>This is heading 3</h3> \n"
+            }
+          ]
+        },
+        {
+          "title": "HTML Attributes",
+          "chapters": [
+            {
+              "title": "HTML Attributes",
+              "content": "\n All HTML elements can have attributes \n Attributes provide additional information about elements \n Attributes are always specified in the start tag \n The href Attribute The <a> tag defines a hyperlink. The href attribute specifies the URL of the page the link goes to: \n Example: \n <a href='https://www.w3schools.com'>Visit W3Schools</a> \n The src Attribute \n The <img> tag is used to embed an image in an HTML page. The src attribute specifies the path to the image to be displayed: \n Example \n <img src='img_girl.jpg'> \n The width and height Attributes \n The <img> tag should also contain the width and height attributes, which specify the width and height of the image (in pixels): \n Example \n\n"
+            },
+            {
+              "title": "The <!DOCTYPE> Declaration",
+              "content": "\n - The <!DOCTYPE> declaration represents the document type, and helps browsers to display web pages correctly. \n - It must only appear once, at the top of the page (before any HTML tags). \n - The <!DOCTYPE> declaration is not case sensitive. \n - The <!DOCTYPE> declaration for HTML5 is: \n <!DOCTYPE html> \n"
+            },
+            {
+              "title": "HTML Headings",
+              "content": "\n - HTML headings are defined with the <h1> to <h6> tags. \n <h1> defines the most important heading. \n <h6> defines the least important heading: \n Example \n <h1>This is heading 1</h1> \n <h2>This is heading 2</h2> \n <h3>This is heading 3</h3> \n"
+            }
+          ]
+        },
+        {
+          "title": "HTML Headings",
+          "chapters": [
+            {
+              "title": "HTML Attributes",
+              "content": "\n All HTML elements can have attributes \n Attributes provide additional information about elements \n Attributes are always specified in the start tag \n The href Attribute The <a> tag defines a hyperlink. The href attribute specifies the URL of the page the link goes to: \n Example: \n <a href='https://www.w3schools.com'>Visit W3Schools</a> \n The src Attribute \n The <img> tag is used to embed an image in an HTML page. The src attribute specifies the path to the image to be displayed: \n Example \n <img src='img_girl.jpg'> \n The width and height Attributes \n The <img> tag should also contain the width and height attributes, which specify the width and height of the image (in pixels): \n Example \n\n"
+            },
+            {
+              "title": "The <!DOCTYPE> Declaration",
+              "content": "\n - The <!DOCTYPE> declaration represents the document type, and helps browsers to display web pages correctly. \n - It must only appear once, at the top of the page (before any HTML tags). \n - The <!DOCTYPE> declaration is not case sensitive. \n - The <!DOCTYPE> declaration for HTML5 is: \n <!DOCTYPE html> \n"
+            },
+            {
+              "title": "HTML Headings",
+              "content": "\n - HTML headings are defined with the <h1> to <h6> tags. \n <h1> defines the most important heading. \n <h6> defines the least important heading: \n Example \n <h1>This is heading 1</h1> \n <h2>This is heading 2</h2> \n <h3>This is heading 3</h3> \n"
+            }
+          ]
+        },
+        {
+          "title": "HTML Paragraphs",
+          "chapters": [
+            {
+              "title": "HTML Attributes",
+              "content": "\n All HTML elements can have attributes \n Attributes provide additional information about elements \n Attributes are always specified in the start tag \n The href Attribute The <a> tag defines a hyperlink. The href attribute specifies the URL of the page the link goes to: \n Example: \n <a href='https://www.w3schools.com'>Visit W3Schools</a> \n The src Attribute \n The <img> tag is used to embed an image in an HTML page. The src attribute specifies the path to the image to be displayed: \n Example \n <img src='img_girl.jpg'> \n The width and height Attributes \n The <img> tag should also contain the width and height attributes, which specify the width and height of the image (in pixels): \n Example \n\n"
+            },
+            {
+              "title": "The <!DOCTYPE> Declaration",
+              "content": "\n - The <!DOCTYPE> declaration represents the document type, and helps browsers to display web pages correctly. \n - It must only appear once, at the top of the page (before any HTML tags). \n - The <!DOCTYPE> declaration is not case sensitive. \n - The <!DOCTYPE> declaration for HTML5 is: \n <!DOCTYPE html> \n"
+            },
+            {
+              "title": "HTML Headings",
+              "content": "\n - HTML headings are defined with the <h1> to <h6> tags. \n <h1> defines the most important heading. \n <h6> defines the least important heading: \n Example \n <h1>This is heading 1</h1> \n <h2>This is heading 2</h2> \n <h3>This is heading 3</h3> \n"
+            }
+          ]
+        },
+        {
+          "title": "HTML Styles",
+          "chapters": [
+            {
+              "title": "HTML Attributes",
+              "content": "\n All HTML elements can have attributes \n Attributes provide additional information about elements \n Attributes are always specified in the start tag \n The href Attribute The <a> tag defines a hyperlink. The href attribute specifies the URL of the page the link goes to: \n Example: \n <a href='https://www.w3schools.com'>Visit W3Schools</a> \n The src Attribute \n The <img> tag is used to embed an image in an HTML page. The src attribute specifies the path to the image to be displayed: \n Example \n <img src='img_girl.jpg'> \n The width and height Attributes \n The <img> tag should also contain the width and height attributes, which specify the width and height of the image (in pixels): \n Example \n\n"
+            },
+            {
+              "title": "The <!DOCTYPE> Declaration",
+              "content": "\n - The <!DOCTYPE> declaration represents the document type, and helps browsers to display web pages correctly. \n - It must only appear once, at the top of the page (before any HTML tags). \n - The <!DOCTYPE> declaration is not case sensitive. \n - The <!DOCTYPE> declaration for HTML5 is: \n <!DOCTYPE html> \n"
+            },
+            {
+              "title": "HTML Headings",
+              "content": "\n - HTML headings are defined with the <h1> to <h6> tags. \n <h1> defines the most important heading. \n <h6> defines the least important heading: \n Example \n <h1>This is heading 1</h1> \n <h2>This is heading 2</h2> \n <h3>This is heading 3</h3> \n"
+            }
+          ]
+        },
+        {
+          "title": "HTML Comments",
+          "chapters": [
+            {
+              "title": "HTML Attributes",
+              "content": "\n All HTML elements can have attributes \n Attributes provide additional information about elements \n Attributes are always specified in the start tag \n The href Attribute The <a> tag defines a hyperlink. The href attribute specifies the URL of the page the link goes to: \n Example: \n <a href='https://www.w3schools.com'>Visit W3Schools</a> \n The src Attribute \n The <img> tag is used to embed an image in an HTML page. The src attribute specifies the path to the image to be displayed: \n Example \n <img src='img_girl.jpg'> \n The width and height Attributes \n The <img> tag should also contain the width and height attributes, which specify the width and height of the image (in pixels): \n Example \n\n"
+            },
+            {
+              "title": "The <!DOCTYPE> Declaration",
+              "content": "\n - The <!DOCTYPE> declaration represents the document type, and helps browsers to display web pages correctly. \n - It must only appear once, at the top of the page (before any HTML tags). \n - The <!DOCTYPE> declaration is not case sensitive. \n - The <!DOCTYPE> declaration for HTML5 is: \n <!DOCTYPE html> \n"
+            },
+            {
+              "title": "HTML Headings",
+              "content": "\n - HTML headings are defined with the <h1> to <h6> tags. \n <h1> defines the most important heading. \n <h6> defines the least important heading: \n Example \n <h1>This is heading 1</h1> \n <h2>This is heading 2</h2> \n <h3>This is heading 3</h3> \n"
+            }
+          ]
+        },
+        {
+          "title": "HTML Links",
+          "chapters": [
+            {
+              "title": "HTML Attributes",
+              "content": "\n All HTML elements can have attributes \n Attributes provide additional information about elements \n Attributes are always specified in the start tag \n The href Attribute The <a> tag defines a hyperlink. The href attribute specifies the URL of the page the link goes to: \n Example: \n <a href='https://www.w3schools.com'>Visit W3Schools</a> \n The src Attribute \n The <img> tag is used to embed an image in an HTML page. The src attribute specifies the path to the image to be displayed: \n Example \n <img src='img_girl.jpg'> \n The width and height Attributes \n The <img> tag should also contain the width and height attributes, which specify the width and height of the image (in pixels): \n Example \n\n"
+            },
+            {
+              "title": "The <!DOCTYPE> Declaration",
+              "content": "\n - The <!DOCTYPE> declaration represents the document type, and helps browsers to display web pages correctly. \n - It must only appear once, at the top of the page (before any HTML tags). \n - The <!DOCTYPE> declaration is not case sensitive. \n - The <!DOCTYPE> declaration for HTML5 is: \n <!DOCTYPE html> \n"
+            },
+            {
+              "title": "HTML Headings",
+              "content": "\n - HTML headings are defined with the <h1> to <h6> tags. \n <h1> defines the most important heading. \n <h6> defines the least important heading: \n Example \n <h1>This is heading 1</h1> \n <h2>This is heading 2</h2> \n <h3>This is heading 3</h3> \n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "C++",
+      "description": "This is Advance c++ course",
+      "topics": [
+        {
+          "title": "Topic 2-1",
+          "chapters": [
+            {
+              "title": "Chapter 1",
+              "content": "Content of Chapter 1"
+            },
+            {
+              "title": "Chapter 2",
+              "content": "Content of Chapter 2"
+            }
+          ]
+        },
+        {
+          "title": "Topic 2-2",
+          "chapters": [
+            {
+              "title": "Chapter 3",
+              "content": "Content of Chapter 3"
+            },
+            {
+              "title": "Chapter 4",
+              "content": "Content of Chapter 4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "C Programming",
+      "description": "This is a beginer C Programming course.",
+      "topics": [
+        {
+          "title": "Introducton",
+          "chapters": [
+            {
+              "title": "What is HTML?",
+              "content": "\n - HTML stands for Hyper Text Markup Language \n - HTML is the standard markup language for creating Web pages \n - HTML describes the structure of a Web page \n - HTML consists of a series of elements \n - HTML elements tell the browser how to display the content \n"
+            },
+            {
+              "title": "A Simple HTML Document",
+              "content": "<!DOCTYPE html> \n <html> \n <head> \n <title>Page Title</title> \n </head> \n <body> \n <h1>My First Heading</h1> \n <p>My first paragraph.</p> \n </body> \n </html>"
+            },
+            {
+              "title": "Example Explained",
+              "content": "\n -The <!DOCTYPE html> declaration defines that this document is an HTML5 document \n - The <html> element is the root element of an HTML page \n - The <head> element contains meta information about the HTML page \n - The <title> element specifies a title for the HTML page (which is shown in the browser's title bar or in the page's tab) \n - The <body> element defines the document's body, and is a container for all the visible contents, such as headings, paragraphs, images, hyperlinks, tables, lists, etc. \n - The <h1> element defines a large heading \n - The <p> element defines a paragraph \n"
+            }
+          ]
+        },
+        {
+          "title": "HTML Basic Examples",
+          "chapters": [
+            {
+              "title": "HTML Documents",
+              "content": "\n All HTML documents must start with a document type declaration: <!DOCTYPE html>. \n The HTML document itself begins with <html> and ends with </html>. \n The visible part of the HTML document is between <body> and </body>. \n\n"
+            },
+            {
+              "title": "The <!DOCTYPE> Declaration",
+              "content": "\n - The <!DOCTYPE> declaration represents the document type, and helps browsers to display web pages correctly. \n - It must only appear once, at the top of the page (before any HTML tags). \n - The <!DOCTYPE> declaration is not case sensitive. \n - The <!DOCTYPE> declaration for HTML5 is: \n <!DOCTYPE html> \n"
+            },
+            {
+              "title": "HTML Headings",
+              "content": "\n - HTML headings are defined with the <h1> to <h6> tags. \n <h1> defines the most important heading. \n <h6> defines the least important heading: \n Example \n <h1>This is heading 1</h1> \n <h2>This is heading 2</h2> \n <h3>This is heading 3</h3> \n"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+
