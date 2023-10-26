@@ -1,5 +1,7 @@
 # Mini Project 2 : Student Helper
 
+Project partner: Sayyed ali
+
 Student Helper isn't just a project. It's an Emotion...
 
 Student Helper an E - Learning app created for computer science students to enhance their skills.
