@@ -1,9 +1,5 @@
 # Mini Project 2 : Student Helper
 
-<p style="text-align: right;float:right">Project Contributors: </p>
-<p style="text-align: right">Shafiulla</p>
-<p style="text-align: right">Sayyed ali</p>
-
 Student Helper isn't just a project. It's an Emotion...
 
 Student Helper an E - Learning app created for computer science students to enhance their skills.
@@ -41,6 +37,11 @@ Section 2: Here they can attempt contest which usually conducted once a week. (W
 
 8. Chatbot : Student can solve their queries using chatbot.
 
+<br/><br/>
+
+<p style="text-align: right;color:red">Project Contributors: </p>
+<p style="text-align: right">Shafiulla</p>
+<p style="text-align: right">Sayyed ali</p>
 
 # Snapshots
 
