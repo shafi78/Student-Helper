@@ -39,9 +39,9 @@ Section 2: Here they can attempt contest which usually conducted once a week. (W
 
 <br/><br/>
 
-<p style="text-align: right;color:red">Project Contributors: </p>
-<p style="text-align: right">Shafiulla</p>
-<p style="text-align: right">Sayyed ali</p>
+<p style="color:red;">Project Contributors: </p>
+<p>Shafiulla</p>
+<p>Sayyed ali</p>
 
 # Snapshots
 
