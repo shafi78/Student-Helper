@@ -2,6 +2,8 @@
 
 Student Helper isn't just a project. It's an Emotion...
 
+<img src="./assets/studenthome.png" width="250" height="500">
+
 Student Helper an E - Learning app created for computer science students to enhance their skills.
 
 We created some components like: 
