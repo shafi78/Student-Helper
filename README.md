@@ -1,1 +1,1 @@
-# Student-Helper
+# Student Helper
