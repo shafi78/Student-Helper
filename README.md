@@ -1,6 +1,6 @@
 # Mini Project 2 : Student Helper
 
-<p style="text-align: right">Project Contributors: </p>
+<p style="text-align: right;float:right">Project Contributors: </p>
 <p style="text-align: right">Shafiulla</p>
 <p style="text-align: right">Sayyed ali</p>
 
