@@ -1,6 +1,8 @@
 # Mini Project 2 : Student Helper
 
-Project partner: Sayyed ali
+<p style="text-align: right">Project Contributors: </p>
+<p style="text-align: right">Shafiulla</p>
+<p style="text-align: right">Sayyed ali</p>
 
 Student Helper isn't just a project. It's an Emotion...
 
